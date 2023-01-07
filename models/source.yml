@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: connector_name
+    tables:
+      - name: table_name_1
+      - name: table_name_2
